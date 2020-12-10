@@ -210,6 +210,11 @@ for elemento in objetos:
     print(elemento)
 ```   
 
+**Tuplas** 
+Las tuplas son similares a las listas, únicamente que son estáticas, no puede tener valores repetidas, ni tampoco eliminar datos de la tupla, tiene beneficios versus las listas, como por ejemplo que se recorre más rapido las tuplas  
+
+
+
 
 
 

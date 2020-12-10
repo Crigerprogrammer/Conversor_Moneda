@@ -173,7 +173,11 @@ El ciclo for permite iterar de una manera más simplificada instrucciones hasta 
 
     for i in range(10):
         print(11 * i)
-```  
+```   
+
+En los ciclos existen dos palabras reservadas que ayudan a interrumpir el funcionamiento de los ciclos, estas son: **break** y **continue**, la palabra reservada break interrumpe el ciclo cuando se encuentra con una condición antes dada por el algoritmo, mientras que continue hace que el ciclo corra después de encontrar la condición.  
+
+
 
 
 

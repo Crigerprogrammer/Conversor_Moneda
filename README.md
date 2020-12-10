@@ -134,7 +134,18 @@ nombre[1] #Esto retornará el caracter r
 nombre[0] #Esto retornará el caracter C
 ```   
 
+### Slices de cadenas  
 
+En python se puede hacer slices de cadenas, para obtener una porción de la cadena original y poderla almacenar en variables o realizar diferentes funcionalidadaes.  
+La sintaxis es:  
+
+```python
+nombre = "Cristian"
+nombre[0:3] #Esto retornará Cri
+nombre[:3] #Esto retornará Cri también
+nombre[3:] #Esto retornará stian
+print(nombre[0:7:2]) #Retornará Cita, ya que hace saltos de 2
+```   
 
 
 

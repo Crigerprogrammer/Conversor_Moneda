@@ -62,3 +62,9 @@ numero1 = 10
 numero2 = 20
 numero1 > numero2 #Esto retornará un valor booleano, en esta ocasión será, falso ya que 10 no es mayor a 20
 ```  
+
+### Condicionales  
+
+
+---  
+

@@ -147,6 +147,24 @@ nombre[3:] #Esto retornará stian
 print(nombre[0:7:2]) #Retornará Cita, ya que hace saltos de 2
 ```   
 
+### Bucles 
+
+Los bucles en python son una solución para repetir *n* cantidad de acciones con un bloque más simplificado de código, existen varios tipos de bucles dentro de python
+
+**While**  
+
+El ciclo while en python permite iterar una instrucción mientras se cumpla una condición. Ejemplo: 
+```python
+    contador = 0
+    potencia_2 = 2**contador
+    while potencia_2 < LIMITE:
+        print('2 elevado a ' + str(contador) + 
+        ' es igual a: ' + str(potencia_2))
+        contador = contador + 1
+        potencia_2 = 2**contador
+```   
+
+
 
 
 

@@ -99,6 +99,19 @@ imprimir_mensaje()
 imprimir_mensaje()
 imprimir_mensaje()
 ```   
+**RETURN**  
+
+Existe una palabra reservada llamada *return* que nos permite dentro de las funciones retornar el valor de la función y poder utilizarla a lo largo del programa almacenandola en una variable. EJEMPLO:
+
+```python
+def suma(a, b):
+    print('Se suman dos números')
+    resultado = a + b
+    return resultado
+
+sumatoria = suma(1, 4)
+print(sumatoria)
+```   
 
 
 

@@ -178,6 +178,37 @@ El ciclo for permite iterar de una manera más simplificada instrucciones hasta 
 En los ciclos existen dos palabras reservadas que ayudan a interrumpir el funcionamiento de los ciclos, estas son: **break** y **continue**, la palabra reservada break interrumpe el ciclo cuando se encuentra con una condición antes dada por el algoritmo, mientras que continue hace que el ciclo corra después de encontrar la condición.  
 
 
+### Estructuras de Datos  
+
+---  
+
+Las estructuras de datos son formas para guardar varios datos en una misma variable
+
+**Listas**
+Las listas tienen métodos los cuáles ayudan a poder trabajar con estas estructuras de datos, los métodos vistos son: *append*, *pop* y también se puede recorrar las listas con ciclos, Ejemplos:
+
+```python
+# Declarar una lista
+numeros = [1, 3, 6, 8, 9, 45, 90]
+print(numeros)
+
+objetos = ['Hola', 3, 4.5, True]
+print(objetos)
+
+# Acceder a valores dentro de la lista
+print(objetos[1])
+
+# Metodo para lista, append, agrega un valor a la lista
+objetos.append(False)
+
+# Metodo para eliminar elemento de la lista, pop
+objetos.pop(1)
+
+# Recorrer lista con bucle
+
+for elemento in objetos:
+    print(elemento)
+```   
 
 
 

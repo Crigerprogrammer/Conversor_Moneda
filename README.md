@@ -163,6 +163,18 @@ El ciclo while en python permite iterar una instrucción mientras se cumpla una 
         contador = contador + 1
         potencia_2 = 2**contador
 ```   
+**For** 
+
+El ciclo for permite iterar de una manera más simplificada instrucciones hasta un rango definido. Ejemplo:  
+
+```python
+    for contador in range(1, 1001): # Siempre llega al número -1 del 2do parametro
+        print(contador)
+
+    for i in range(10):
+        print(11 * i)
+```  
+
 
 
 

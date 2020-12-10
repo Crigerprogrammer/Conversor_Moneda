@@ -113,6 +113,29 @@ sumatoria = suma(1, 4)
 print(sumatoria)
 ```   
 
+### Metodos  
+
+
+Existen métodos ya establecidos para objetos en python, a continuación veremos los métodos para los objetos tipo string:  
+
+- **upper()** : Este metodo permite colocar toda la cadena de texto en mayúsculas 
+- **lower()** : Este método permite colocar toda la cadena de texto en minúsculas 
+- **capitalize()** : Este método permite colocar la inicial del texto en mayúscula
+- **strip()** : Este método permite eliminar los espacios de las cadenas de texto 
+- **replace** : Este método obtiene 2 parametros, el primero es el valor que queremos buscar dentro de la cadena y el segundo paramentro es el valor por el que lo reemplazaremos.  
+- **len()** : Este método retorna la longitud de la cadena de cáracteres
+
+### Indices 
+
+En python podemos acceder a los cáracteres de la cadena de caracteres. Ejemplo: 
+```python
+nombre = "Cristian"
+nombre[1] #Esto retornará el caracter r 
+nombre[0] #Esto retornará el caracter C
+```   
+
+
+
 
 
 

@@ -82,3 +82,24 @@ else:
 
 Tomar en nota que después de terminar una regla if va seguido del caracter **:** y luego en la siguiente línea indentación (4 espacios)  
 
+---  
+
+
+### Funciones
+
+Las funciones en python ayudan a no repetir código, las funciones se declaran con la palabra reservada **def** seguido del nombre de la funcion y luego **()** y al finalizar con **:**, luego se coloca el bloque de código y esa sería la función, luego se puede llamar la función o invocar, con el nombre de la función más parametros dentro de parentesis si en dado caso se declararon antes.
+
+Sintaxis:
+```python
+def imprimir_mensaje():
+    print('Mensaje especial: ')
+    print('Estoy aprendiendo a usar funciones')
+
+imprimir_mensaje()
+imprimir_mensaje()
+imprimir_mensaje()
+```   
+
+
+
+

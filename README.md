@@ -68,3 +68,17 @@ numero1 > numero2 #Esto retornará un valor booleano, en esta ocasión será, fa
 
 ---  
 
+Las palabras reservadas para realizar una condición en python son: *if*, *elif* y *else*, estas palabras reservadas nos permitirá crear distintos caminos en un programa, ejemplos: 
+
+```python
+# Preguntar usuario edad y guardarlo como entero
+edad = int(input("Escribe tu edad: "))
+# usar condicional
+if edad > 17:
+    print ('Eres mayor de edad')
+else:
+    print ('Eres menor de edad')
+``` 
+
+Tomar en nota que después de terminar una regla if va seguido del caracter **:** y luego en la siguiente línea indentación (4 espacios)  
+

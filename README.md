@@ -1,8 +1,4 @@
-## Curso Básico de Python  
-
-
-Curso por Platzi, link del curso [aquí](https://platzi.com/clases/python/).
----
+## Python
 ### Conceptos Básicos de Python  
 
 

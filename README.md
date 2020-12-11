@@ -213,8 +213,13 @@ for elemento in objetos:
 Las tuplas son similares a las listas, únicamente que son estáticas, no puede tener valores repetidas, ni tampoco eliminar datos de la tupla, tiene beneficios versus las listas, como por ejemplo que se recorre más rapido las tuplas  
 
 
+### Otros conceptos 
 
+**Garbage Collector**  
 
+Un recolector de basura (del inglés garbage collector) es un mecanismo implícito de gestión de memoria implementado en algunos lenguajes de programación de tipo interpretado o semiinterpretado.
+
+Recolección de basura informática. El espacio de memoria se va llenando con diferentes “objetos”, también pueden destruirse algunos de ellos, dejando “huecos” en el espacio de memoria. Cuando ya no queda espacio disponible, o cuando lo decide la rutina de recolección de basura, la memoria es “compactada”, colocando todos los “objetos” que se están usando al principio, y consolidando todos los “huecos” de memoria al final, quedando así una gran área de memoria disponible para la futura creación de objetos.
 
 
 

@@ -1,4 +1,7 @@
 ## Python
+
+Un algoritmo es una lista finita de instrucciones que describen un cómputo, que cuando se ejectua con ciertas entradas (inputs) ejecuta pasos intermedios para llegar a un resultado (output)
+
 ### Conceptos Básicos de Python  
 
 

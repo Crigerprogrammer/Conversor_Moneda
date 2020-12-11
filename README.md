@@ -15,6 +15,11 @@ Un algoritmo es una lista finita de instrucciones que describen un cómputo, que
 
 **Variables**  
 
+*Reglas para declarar variables en Python* :  
+
+- Pueden contener mayúsculas, minúsculas, números (sin comenzar con uno) y el símbolo _ 
+- No pueden llamarse como las palabras reservadas
+
 
 En Python las variables son como cajas, y puede almacenar cualquier valor, númerico o strings sin antes ser definidos como otros lenguajes de programación, para almacenar un valor númerico bastará con solo agregar el valor, mientras que con textos deberá utilizarse "" o ''. Ejemplos:  
 

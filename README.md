@@ -2,6 +2,8 @@
 
 Un algoritmo es una lista finita de instrucciones que describen un cómputo, que cuando se ejectua con ciertas entradas (inputs) ejecuta pasos intermedios para llegar a un resultado (output)
 
+Python es un lenguaje orientado a matematicas y por eso es uno de los más utilizados en la ciencia de datos
+
 ### Conceptos Básicos de Python  
 
 

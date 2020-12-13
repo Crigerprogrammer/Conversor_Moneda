@@ -228,6 +228,10 @@ Un recolector de basura (del inglés garbage collector) es un mecanismo implíci
 
 Recolección de basura informática. El espacio de memoria se va llenando con diferentes “objetos”, también pueden destruirse algunos de ellos, dejando “huecos” en el espacio de memoria. Cuando ya no queda espacio disponible, o cuando lo decide la rutina de recolección de basura, la memoria es “compactada”, colocando todos los “objetos” que se están usando al principio, y consolidando todos los “huecos” de memoria al final, quedando así una gran área de memoria disponible para la futura creación de objetos.
 
+### Algoritmos de Aproximación de soluciones  
 
+---
 
+- Similar a enumeración exhaustiva, pero no necesita una respuesta exacta
 
+- Podemos aproximar soluciones con un margen de error que llamaremos epsilon

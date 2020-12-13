@@ -235,3 +235,11 @@ Recolección de basura informática. El espacio de memoria se va llenando con di
 - Similar a enumeración exhaustiva, pero no necesita una respuesta exacta
 
 - Podemos aproximar soluciones con un margen de error que llamaremos epsilon
+
+### Búsqueda Binaria
+
+---
+
+- Cuando la respuesta se encuentra en un conjunto ordenado, podemos utilizar búsqueda binaria
+
+- Es altamente eficiente, pues corta el espacio de  búsqeuda en dos por cada iteración 

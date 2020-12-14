@@ -310,3 +310,10 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - Se basan en el flujo del programa
 - Prueba todos los caminos posibles de una función. Ramificaciones, bucles for y while, recursión
 - Regression testing o mocks
+
+### Manejo de Excepciones
+
+- Son muy comunes en la programación. No tienen nada de excepcional
+- Las excepciones de Python normalmente se relacionan con errores de semántica
+- Se pueden crear excepciones propias
+- Cuando una excepción no se maneja

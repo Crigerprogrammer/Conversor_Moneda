@@ -304,3 +304,9 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - Se basan en la especificación de la función o el programa
 - Prueba inputs y valida outputs
 - Unit testing o integration testing
+
+### Pruebas de caja de cristal
+
+- Se basan en el flujo del programa
+- Prueba todos los caminos posibles de una función. Ramificaciones, bucles for y while, recursión
+- Regression testing o mocks

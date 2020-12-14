@@ -261,3 +261,11 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - En medio se agrega la descripción de los diferentes parámetros, su tipo, su nombre y que es lo que se espera de esos parámetros
 
 - Por ultimo se agrega que es lo que devuelve nuestra función
+
+### Recursividad
+
+**Algoritmica** 
+- Una forma de crear soluciones utilizando el principio de "divide y venceras" 
+
+**Programatica**
+- Una técnica programática mediante la cual una función se llama a sí misma. 

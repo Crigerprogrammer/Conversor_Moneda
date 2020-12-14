@@ -291,3 +291,11 @@ El docstring o la documentación está dividido en tres partes importantes que s
 **List comprehension**
 - Es una forma concisa de aplicar operaciones a los valores de una secuencia.
 - También se pueden aplicar condiciones para filtrar.
+
+### Diccionarios
+
+- Son como listas, pero en lugar de usar índices utilizan llaves
+- No tienen orden interno
+- Los diccionarios son mutables
+- Pueden iterarse
+

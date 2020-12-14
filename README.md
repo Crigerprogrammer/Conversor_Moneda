@@ -273,3 +273,9 @@ El docstring o la documentación está dividido en tres partes importantes que s
 
 **Programatica**
 - Una técnica programática mediante la cual una función se llama a sí misma. 
+
+### Rangos
+
+- Representan una secuencia de enteros.
+- range(comienzo, fin, pasos)
+- Al igual que las cadenas y las tuplas, los rangos son inmutables

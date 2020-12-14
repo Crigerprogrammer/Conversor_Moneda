@@ -279,3 +279,9 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - Representan una secuencia de enteros.
 - range(comienzo, fin, pasos)
 - Al igual que las cadenas y las tuplas, los rangos son inmutables
+
+### Listas y multibilidad
+
+- Son secuencias de objetos, pero a diferente de las tuplas, sí son mutables.
+- Cuando modificas una lista, pueden existir efectos secundarioas
+- Es posible iterar con ellas

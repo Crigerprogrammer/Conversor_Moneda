@@ -299,3 +299,8 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - Los diccionarios son mutables
 - Pueden iterarse
 
+### Pruebas de caja negra
+
+- Se basan en la especificación de la función o el programa
+- Prueba inputs y valida outputs
+- Unit testing o integration testing

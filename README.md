@@ -228,6 +228,10 @@ for elemento in objetos:
 **Tuplas** 
 Las tuplas son similares a las listas, únicamente que son estáticas, no puede tener valores repetidas, ni tampoco eliminar datos de la tupla, tiene beneficios versus las listas, como por ejemplo que se recorre más rapido las tuplas  
 
+- Son secuencias inmutables de objetos
+- A diferencia de las cadenas pueden contener cualquier tipo de objeto
+- Puede utilizarse para devolver varios valores en una función.
+
 
 ### Otros conceptos 
 

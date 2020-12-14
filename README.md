@@ -288,3 +288,6 @@ El docstring o la documentación está dividido en tres partes importantes que s
 **Clonación**  
 - Casi siempre es mejor clonar una lista en vez de mutarla
 - Para clonar una lista podemos utilizar rebanadas (slices) o la función list
+**List comprehension**
+- Es una forma concisa de aplicar operaciones a los valores de una secuencia.
+- También se pueden aplicar condiciones para filtrar.

@@ -285,3 +285,6 @@ El docstring o la documentación está dividido en tres partes importantes que s
 - Son secuencias de objetos, pero a diferente de las tuplas, sí son mutables.
 - Cuando modificas una lista, pueden existir efectos secundarioas
 - Es posible iterar con ellas
+**Clonación**  
+- Casi siempre es mejor clonar una lista en vez de mutarla
+- Para clonar una lista podemos utilizar rebanadas (slices) o la función list
